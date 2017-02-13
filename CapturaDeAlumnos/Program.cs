@@ -95,7 +95,7 @@ class MainClass
 		System.Collections.ArrayList LstMaterias = new System.Collections.ArrayList ();
 
 
-		for (int iContador = 1; iContador < 5; iContador++) {
+		for (int iContador = 1; iContador < 1; iContador++) {
 
 			AlumnoInfo iAlumno = new AlumnoInfo ();
 
@@ -105,6 +105,9 @@ class MainClass
 			iAlumno.Materias.Add (new Materia ("Espanol"));
 			iAlumno.Materias.Add (new Materia ("Historia"));
 			iAlumno.Materias.Add (new Materia ("Matematicas"));
+			iAlumno.Materias.Add (new Materia ("Programacion"));
+			iAlumno.Materias.Add (new Materia ("Ingles"));
+			iAlumno.Materias.Add (new Materia ("Algoritmos"));
 
 			iAlumno.CapturarCalificaciones ();//Capturar la lista de Calificaciones
 			Alumnos.Add (iAlumno);//Agregar alumno a la lista
