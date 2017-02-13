@@ -8,9 +8,9 @@ o capturar ciertas materias que se requieran, solo basta con agregar las materia
 </p>
 </i>
 
-<b>Capturando Alumno</b>
-![alt tag](https://github.com/MrAlex6204/CSharpCodes/tree/master/Images/screen1.jpg)
+<b>Capturando Alumno</b><br>
+![alt tag](https://github.com/MrAlex6204/CSharpCodes/blob/master/CapturaDeAlumnos/Images/screen1.jpg)
 <br>
 <br>
-<b>Mostrando la lista de alumnos capturados</b>
-![alt tag](https://github.com/MrAlex6204/CSharpCodes/tree/master/Images/screen2.jpg)
+<b>Mostrando la lista de alumnos capturados</b><br>
+![alt tag](https://github.com/MrAlex6204/CSharpCodes/blob/master/CapturaDeAlumnos/Images/screen2.jpg)
