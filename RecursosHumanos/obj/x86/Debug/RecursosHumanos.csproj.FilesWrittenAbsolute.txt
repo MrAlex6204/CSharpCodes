@@ -1,0 +1,5 @@
+/home/oavera/Documents/CSharpCodes/RecursosHumanos/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/oavera/Documents/CSharpCodes/RecursosHumanos/bin/Debug/RecursosHumanos.exe.mdb
+/home/oavera/Documents/CSharpCodes/RecursosHumanos/bin/Debug/RecursosHumanos.exe
+/home/oavera/Documents/CSharpCodes/RecursosHumanos/obj/x86/Debug/RecursosHumanos.exe
+/home/oavera/Documents/CSharpCodes/RecursosHumanos/obj/x86/Debug/RecursosHumanos.exe.mdb
