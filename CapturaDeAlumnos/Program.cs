@@ -95,7 +95,7 @@ class MainClass
 		System.Collections.ArrayList LstMaterias = new System.Collections.ArrayList ();
 
 
-		for (int iContador = 1; iContador < 1; iContador++) {
+		for (int iContador = 1; iContador < 15; iContador++) {
 
 			AlumnoInfo iAlumno = new AlumnoInfo ();
 

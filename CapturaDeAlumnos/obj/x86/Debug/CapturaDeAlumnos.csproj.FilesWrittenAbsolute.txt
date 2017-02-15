@@ -1,0 +1,5 @@
+/home/oavera/Documents/CSharpCodes/CapturaDeAlumnos/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/oavera/Documents/CSharpCodes/CapturaDeAlumnos/bin/Debug/CapturaDeAlumnos.exe.mdb
+/home/oavera/Documents/CSharpCodes/CapturaDeAlumnos/bin/Debug/CapturaDeAlumnos.exe
+/home/oavera/Documents/CSharpCodes/CapturaDeAlumnos/obj/x86/Debug/CapturaDeAlumnos.exe
+/home/oavera/Documents/CSharpCodes/CapturaDeAlumnos/obj/x86/Debug/CapturaDeAlumnos.exe.mdb
