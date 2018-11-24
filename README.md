@@ -12,3 +12,8 @@ Este programa captura la calificacion de 3 Materias (Espanol,Historia,Matematica
 El programa esta echo para capturar y calcular el promedio de N cantidad de alumnos y N Cantidad de materias por alumno en general o capturar ciertas materias que se requieran, solo basta con agregar las materias deseadas para el alumno.
 
 ![alt_tag](https://github.com/MrAlex6204/CSharpCodes/blob/master/CapturaDeAlumnos/Images/screen1.jpg)
+
+## ![Bouncing Ball](https://github.com/MrAlex6204/CSharpCodes/tree/master/BouncingBall)
+Bouncing Ball es un programam de ejemplo en el que se muestra el principio del rebote de una pelota en la pantalla, ademas detecta si el usuario tiene mas de una pantalla disponible.
+
+![alt_tag](https://github.com/MrAlex6204/CSharpCodes/blob/master/BouncingBall/Images/screen1.png)
